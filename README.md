@@ -19,4 +19,6 @@ This repository contain data collected from  135 studies that validate satellite
 
 The dataset is provided in /RSETValidationPapers_with_PBias_clean.xlsm
 
+The Python scripts for meta-analysis are provided in /PBias_meta_analyses.ipynb
+
 The outputs of the meta-analysis are provided in /Outputs
